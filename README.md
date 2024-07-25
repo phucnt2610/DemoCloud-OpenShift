@@ -1,2 +1,2 @@
-# DemoCloud-OpenShift
-OpenShift - Java Spring Boot
+# devfile-sample-java-springboot-basic
+A basic sample application using Java Spring Boot with devfile
